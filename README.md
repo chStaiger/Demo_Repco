@@ -4,6 +4,7 @@ This project template is a demonstration for the RepCo workshop.
 
 ## Dependencies
  Install R
+ Install libraries
 
 
 ## Usage
